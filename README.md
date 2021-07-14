@@ -6,8 +6,6 @@
 Here are some ideas to get you started:-->
 
 <!-- [![Musweu's GitHub stats](https://github-readme-stats.vercel.app/api?username=musweu10)](https://github.com/musweu10/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musweu10&layout=compact)](https://github.com/musweu10/github-readme-stats)
-
 
 - 🔭 I’m currently working on a Bakery Website
 - 🌱 I’m currently learning ruby , python and java 
@@ -17,3 +15,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: instagram @musweu10 
 <!-- 😄 Pronouns: ..-->
 <!--- ⚡ Fun fact:--> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musweu10&layout=compact)](https://github.com/musweu10/github-readme-stats)
+
