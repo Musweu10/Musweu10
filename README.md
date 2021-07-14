@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:-->
 
+[![Musweu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/musweu10/github-readme-stats)
+
+
 - 🔭 I’m currently working on a Bakery Website
 - 🌱 I’m currently learning ruby , python and java 
 - 👯 I’m looking to collaborate on any projects i can contribute to
