@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 
 ### I'm a Software Developer always learning and creating.
 
-![Snake animation](https://github.com/musweu10/musweu10/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
