@@ -36,16 +36,16 @@ Here are some ideas to get you started:-->
 ![Visual Studio ](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android-studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 - 🔭 I’m currently working on a Bakery Website
 - 🌱 I’m currently learning ruby , python and java 
 - 👯 I’m looking to collaborate on any projects i can contribute to
-<!-- 🤔 I’m looking for help with--> 
 - 💬 Ask me about anything
-- 📫 How to reach me: instagram @musweu10 
+- 📫 How to reach me: instagram @musweu10
+- <!-- 🤔 I’m looking for help with--> 
 <!-- 😄 Pronouns: ..-->
 <!--- ⚡ Fun fact:--> 
 
