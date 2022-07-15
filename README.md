@@ -44,7 +44,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning ruby , python and java 
 - 👯 I’m looking to collaborate on any projects i can contribute to
 - 💬 Ask me about anything
-- 📫 How to reach me: instagram [@musweu10](https://www.instagram.com/musweu10/?hl=en){:target="_blank"}
+- 📫 How to reach me: instagram [@musweu10](https://www.instagram.com/musweu10/?hl=en :target="_blank")
  <!-- 🤔 I’m looking for help with--> 
 <!-- 😄 Pronouns: ..-->
 <!--- ⚡ Fun fact:--> 
