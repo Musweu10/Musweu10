@@ -27,7 +27,7 @@ Here are some ideas to get you started:-->
 ![Flutter FrameWork](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=blue)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=react&logoColor=green)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt&logoColor=green)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -44,7 +44,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning ruby , python and java 
 - 👯 I’m looking to collaborate on any projects i can contribute to
 - 💬 Ask me about anything
-- 📫 How to reach me: instagram [@musweu10](https://www.instagram.com/musweu10/?hl=en)
+- 📫 How to reach me: instagram [@musweu10](https://www.instagram.com/musweu10/?hl=en){:target="_blank"}
  <!-- 🤔 I’m looking for help with--> 
 <!-- 😄 Pronouns: ..-->
 <!--- ⚡ Fun fact:--> 
